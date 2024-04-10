@@ -1,5 +1,3 @@
-C - Binary Trees
-
 0-binary_tree_node.c = créer un nœud d'arbre binaire.
 
 1-binary_tree_insert_left.c = insérer un nœud en tant qu'enfant gauche d'un autre nœud.
